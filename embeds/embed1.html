@@ -1,0 +1,83 @@
+
+<div style="background: black; color: white; width: auto; height: auto;"> <!--  font-size:3vw; -->
+	<style type="text/css">
+		#op1, #op2, #op3, #op4{
+			
+			background: green;
+			display: none;
+			height: 400px;
+			width: auto;
+		}
+		ul {
+		  list-style-type: none;
+		  margin: 0;
+		  padding: 0;
+		  overflow: hidden;
+		  background-color: #333;
+		}
+
+		li {
+		  float: left;
+		}
+
+		li a {
+		  display: block;
+		  color: white;
+		  text-align: center;
+		  padding: 14px 16px;
+		  text-decoration: none;
+		}
+
+		li a:hover {
+		  background-color: #111;
+		}
+
+	</style>
+
+	<script type="text/javascript">
+
+		function show(element){
+			var x;
+			switch(element){
+				case 1:
+					x="op1";
+					break;
+				case 2:
+					x="op2";
+					break;
+				case 3:
+					x="op3";
+					break;
+				case 4:
+					x="op4";
+					break;
+			}
+			document.getElementById(x).style.display='block'
+		}
+		function hide(){document.getElementById('hid').style.display='none'}
+	</script>
+
+	<div style="padding: 10px">
+		<ul>
+			<li>
+				<a href="#" onclick="show(1)">INSTALACION</a>
+			</li>
+
+			<li>
+				<a href="#" onclick="show(2)">HOLA MUNDO</a>
+			</li>
+
+			<li>
+				<a href="#" onclick="show(3)">OPERADORES</a>
+			</li>
+
+			<li>
+				<a href="#" onclick="show(4)">BUCLES ORG</a>
+			</li>
+		</ul>
+		<div id="op1">11111111111</div>
+		<div id="op2">22222222222</div>
+		<div id="op3">33333333333</div>
+		<div id="op4">44444444444</div>
+	</div>
+</div>
