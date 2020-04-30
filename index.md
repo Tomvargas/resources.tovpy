@@ -12,7 +12,7 @@
       	height:500px;
         Clip-path: circle(30% at 50% 70%);
         position: relative;
-        top:-100px;      	
+        top:-300px;      	
       	}
         
         .imag:hover{
