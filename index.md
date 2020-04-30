@@ -7,7 +7,9 @@
         text-align: center;
         color: #eaeaea;
       }
-      
+      .markdown-body {
+    height: 100px;
+}
       .imag {
       	background-color: #14161b;
       	height:500px;
