@@ -26,13 +26,17 @@
         	top:-255px; 
             font-family: Arial, Helvetica, sans-serif;
         }
+	
+	.grid{
+	position:relative;
+	    top:-350;
+	}
 		
         .grid a{
         	text-decoration: none;
             display: inlineblock;
             margin:15px;
-	    position:relative;
-	    top:-350;
+	    
         }
 
     </style>
