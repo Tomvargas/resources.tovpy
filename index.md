@@ -23,7 +23,7 @@
         .gg{
         	font-size:70px;
             position: relative;
-        	top:-55px; 
+        	top:-155px; 
             font-family: Arial, Helvetica, sans-serif;
         }
 		
