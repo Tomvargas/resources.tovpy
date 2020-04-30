@@ -56,7 +56,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
     </a>
     
     <a href="https://sites.google.com/view/tovpy">
-    	<img style="height:120px" src="images/tovpy.png"/>
+    	<img style="height:120px" src="icons/tovpy.png"/>
     </a>
     
     <a href="https://www.behance.net/">
