@@ -27,9 +27,9 @@
             font-family: Arial, Helvetica, sans-serif;
         }
 	
-	.grid{
+	.grid {
 	position:relative;
-	    top:-350;
+	top:-250;
 	}
 		
         .grid a{
