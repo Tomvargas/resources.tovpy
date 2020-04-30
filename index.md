@@ -23,7 +23,7 @@
         .gg{
         	font-size:70px;
             position: relative;
-        	top:-155px; 
+        	top:-255px; 
             font-family: Arial, Helvetica, sans-serif;
         }
 		
@@ -44,7 +44,7 @@
 
     </a>
     
-    <div class="gg"><b>Google</b></div>
+    <div class="gg"><b>Pages</b></div>
 <div class="grid">
 <a href="https://github.com">
     	<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
