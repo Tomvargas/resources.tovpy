@@ -29,7 +29,7 @@
 	
 	.grid {
 	position:relative;
-	top:-250;
+	top:-230px;
 	}
 		
         .grid a{
