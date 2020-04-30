@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>Home</title>
@@ -10,7 +9,7 @@
       }
       
       .imag {
-      	height:700px;
+      	height:500px;
         Clip-path: circle(30% at 50% 70%);
         position: relative;
         top:-100px;      	
@@ -21,7 +20,7 @@
         }
         
         .gg{
-        	font-size:100px;
+        	font-size:70px;
             position: relative;
         	top:-55px; 
             font-family: Arial, Helvetica, sans-serif;
@@ -54,7 +53,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
     </a>
     
     <a href="https://sites.google.com/view/tovpy">
-    	<img style="height:120px" src="https://lh5.googleusercontent.com/1Fee6eS7DpaxB3xRN82JX0viCxfIawrn-x9Dcsl1aLbUsgFiHkeIz9aReB7yY8JnRjgN7hcE=w16383"/>
+    	<img style="height:120px" src="images/tovpy.png"/>
     </a>
     
     <a href="https://www.behance.net/">
@@ -92,11 +91,6 @@ width="120" height="120"
 viewBox="0 0 172 172"
 style=" fill:#000000;"><g fill="none" fill-rule="none" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none" fill-rule="nonzero"></path><g fill="#ffffff" fill-rule="evenodd"><path d="M140.78469,6.50375l-10.54844,1.81406l11.44875,62.63219l9.7825,-1.27656zM103.0925,21.84938l-9.86312,5.93937l35.08531,51.45219l8.66719,-5.34812zM71.54125,51.7075l-5.79156,9.19125l52.93031,31.98125l4.82406,-8.33125zM56.33,83.94406l-2.56656,10.32l60.99281,15.45312l0.9675,-9.25844zM30.96,99.76v65.30625l102.86406,0.05375v-0.05375c0.1075,0 0.33594,-65.30625 0.33594,-65.30625h-10.32v55.04h-82.56v-55.04zM52.12406,111.30281l-0.86,10.26625l62.25594,5.71094l0.69875,-8.6zM51.26406,134.16l0.33594,10.32l61.92,-0.24187v-10.07813z"></path></g></g></svg>
     </a>
-<!--
-	<a href="https://stackoverflow.com/">
-    	
-    </a>
--->
 
 </div>
    
