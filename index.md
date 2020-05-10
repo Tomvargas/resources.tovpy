@@ -55,20 +55,7 @@
 </a>
     
  <div class="gg"><b>Pages</b></div>
- <spam>   
- <center> 
-   	<FORM method=GET action="http://www.google.com/search">
-    		<TABLE bgcolor="#14161b">
-			<tr><td>
-				<INPUT TYPE=text name=q size=31 maxlength=255 value="">
-				<INPUT TYPE=hidden name=hl value=es>
-				<INPUT type=submit name=btnG VALUE="Búsqueda Google">
-			</td></tr>
-		</TABLE>
-	</FORM>
-</center>
-</spam>
-    
+ 
 <div class="grid">
 <a href="https://github.com">
     	<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
