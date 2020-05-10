@@ -15,7 +15,7 @@
       	height:350px;
         Clip-path: circle(30% at 50% 70%);
         position: relative;
-        top:-200px;      	
+        top:-180px;      	
       	}
 	    
 	    .markdown-body h1 {
@@ -28,7 +28,7 @@
         .gg{
         	font-size:70px;
             position: relative;
-        	top:-255px; 
+        	top:-205px; 
             font-family: Arial, Helvetica, sans-serif;
         }
 	
