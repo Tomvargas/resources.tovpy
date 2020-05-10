@@ -50,12 +50,24 @@
 
   <body>
 
-    <a style="color:#eaeaea;" href="https://github.com/Tomvargas">
+<a style="color:#eaeaea;" href="https://github.com/Tomvargas">
       <img src="https://i.pinimg.com/564x/03/72/a4/0372a4251274d1927df41231f5bba9bd.jpg" alt="Avatar" class="imag">
-
-    </a>
+</a>
     
-    <div class="gg"><b>Pages</b></div>
+ <div class="gg"><b>Pages</b></div>
+    
+  <center> 
+   	<FORM method=GET action="http://www.google.com/search">
+    		<TABLE bgcolor="#14161b">
+			<tr><td>
+				<INPUT TYPE=text name=q size=31 maxlength=255 value="">
+				<INPUT TYPE=hidden name=hl value=es>
+				<INPUT type=submit name=btnG VALUE="Búsqueda Google">
+			</td></tr>
+		</TABLE>
+	</FORM>
+</center>
+    
 <div class="grid">
 <a href="https://github.com">
     	<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
