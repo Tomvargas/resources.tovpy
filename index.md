@@ -12,7 +12,7 @@
 }
       .imag {
       	background-color: #14161b;
-      	height:500px;
+      	height:350px;
         Clip-path: circle(30% at 50% 70%);
         position: relative;
         top:-230px;      	
@@ -55,8 +55,8 @@
 </a>
     
  <div class="gg"><b>Pages</b></div>
-    
-  <center> 
+ <spam>   
+ <center> 
    	<FORM method=GET action="http://www.google.com/search">
     		<TABLE bgcolor="#14161b">
 			<tr><td>
@@ -67,6 +67,7 @@
 		</TABLE>
 	</FORM>
 </center>
+</spam>
     
 <div class="grid">
 <a href="https://github.com">
