@@ -15,7 +15,7 @@
       	height:350px;
         Clip-path: circle(30% at 50% 70%);
         position: relative;
-        top:-230px;      	
+        top:-200px;      	
       	}
 	    
 	    .markdown-body h1 {
