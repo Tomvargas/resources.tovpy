@@ -15,7 +15,7 @@
       	height:350px;
         Clip-path: circle(30% at 50% 70%);
         position: relative;
-        top:-180px;      	
+        top:-160px;      	
       	}
 	    
 	    .markdown-body h1 {
@@ -28,13 +28,13 @@
         .gg{
         	font-size:70px;
             position: relative;
-        	top:-205px; 
+        	top:-185px; 
             font-family: Arial, Helvetica, sans-serif;
         }
 	
 	.grid {
 	position:relative;
-	top:-230px;
+	top:-160px;
 	}
 		
         .grid a{
