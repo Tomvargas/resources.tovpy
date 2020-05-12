@@ -54,7 +54,7 @@
       <img src="https://i.pinimg.com/564x/03/72/a4/0372a4251274d1927df41231f5bba9bd.jpg" alt="Avatar" class="imag">
 </a>
     
- <div class="gg"><b>Pages</b></div>
+ <div class="gg"><b>pages</b></div>
  
 <div class="grid">
 <a href="https://github.com">
